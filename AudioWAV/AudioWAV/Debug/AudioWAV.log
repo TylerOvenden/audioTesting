@@ -1,0 +1,4 @@
+﻿  AudioWAV.cpp
+C:\Users\vleen\source\repos\AudioWAV\AudioWAV\AudioWAV.cpp(22,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vleen\source\repos\AudioWAV\AudioWAV\AudioWAV.cpp(45,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AudioWAV.vcxproj -> C:\Users\vleen\source\repos\AudioWAV\Debug\AudioWAV.exe
